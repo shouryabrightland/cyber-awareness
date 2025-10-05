@@ -212,7 +212,6 @@ d.url.forEach((url) => {
 })
 
 const _pngL = [...pngList];
-d.quiz,pngList = [];
 const update = () => {
     pngList.forEach((e, i) => {
         e.style.left = `${Math.random() * window.innerWidth}px`
@@ -366,5 +365,6 @@ onclick = () => {
         showQuiz(d.quiz[_MainPng])
         console.log(pngList[_MainPng], d.quiz[_MainPng], _MainPng)
     }
+
 
 }
