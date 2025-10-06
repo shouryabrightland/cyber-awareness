@@ -23,10 +23,14 @@
     max-width: 1000px;
     padding: 20px;
     backdrop-filter: blur(10px);
-    transition: 1s;
+    transition: 500ms;
     margin: 15px;
     border-radius: 15px;
     text-align: center;
+}
+p{
+    font-size: medium;
+    padding: 10px;
 }
 .floating{
     width: 20px;
