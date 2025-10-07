@@ -3,7 +3,7 @@
     margin: 0;
 }
 body{
-    background-image: url("/img/bg.webp");
+    background-image: url("img/bg.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -118,3 +118,4 @@ p{
 .hide{
     opacity: 0;
 }
+
