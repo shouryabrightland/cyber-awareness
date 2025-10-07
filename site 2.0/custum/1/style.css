@@ -71,7 +71,7 @@ p{
     }
 }
 .floating.main{
-    width: 300px;
+    width: 180px;
 }
 .floating.main{
     z-index: 10;
@@ -82,7 +82,7 @@ p{
 .floating.show{
     left: 50%;
     top: 50%;
-    transform: translate(-100%,-100%);
+    transform: translate(-100%,-85%);
     z-index: 101;
 }
 .question{
@@ -118,4 +118,5 @@ p{
 .hide{
     opacity: 0;
 }
+
 
