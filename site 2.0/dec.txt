@@ -1,0 +1,32 @@
+[0] Ads
+Ads are messages or banners you see online, on apps, or websites that try to make you buy something. Not all ads are real—some are traps to steal your money or personal details. Always check before clicking.
+
+[1] Downloads
+Downloading means copying files, apps, or videos from the internet to your device. Some downloads can contain viruses or malware, so it’s important to download only from trusted sources.
+
+[2] HTTP Protocol
+HTTP is the system websites use to send data to your browser. “HTTPS” is the safer version—it encrypts information so hackers can’t read it. Always prefer HTTPS sites for security.
+
+[3] Multi-Factor Authentication (MFA)
+MFA is a security step where you verify your identity in more than one way, like a password plus an OTP. It makes accounts harder for hackers to access.
+
+[4] OTP (One-Time Password)
+OTP is a temporary code sent to your phone or email to verify it’s really you. It’s like a secret key that works only once and expires quickly. Never share it with anyone.
+
+[5] Passwords
+Passwords protect your accounts, like a lock on a door. Strong passwords mix letters, numbers, and symbols and are never shared with anyone. Weak or reused passwords are easy to hack.
+
+[6] Personal Information Sharing
+Personal information includes your name, address, ID numbers, or passwords. Sharing it carelessly online or with strangers can lead to theft or scams. Only share with trusted sources.
+
+[7] Phishing
+Phishing is when scammers trick you into giving personal info, usually through fake emails, messages, or websites. Always verify before clicking links or sharing details.
+
+[8] Updates
+Updates are improvements to apps, software, or your device. They fix bugs, improve features, and protect against hackers. Always install updates from official sources.
+
+[9] Unknown USB
+Unknown USB drives can contain viruses or malware. Plugging them into your device without checking can infect your system. Only use drives from trusted sources and scan them first.
+
+[10] Public Wi-Fi
+Public Wi-Fi is open internet in cafes, airports, or schools. Hackers can spy on data sent over these networks. Avoid logging into accounts or making payments on public Wi-Fi without extra protection like a VPN.
